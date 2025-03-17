@@ -658,4 +658,5 @@
 
     <bool name="config_reverseDefaultRotation">true</bool>
 
+    <string name="config_dozeUdfpsLongPressSensorType" translatable="false">org.lineageos.sensor.udfps</string>
 </resources>

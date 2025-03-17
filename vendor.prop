@@ -9,3 +9,8 @@ bluetooth.device.default_name=Galaxy Tab S7+
 # Radio
 ro.carrier=wifi-only
 ro.radio.noril=true
+
+# Fingerprint
+ro.vendor.fingerprint.type=udfps_optical
+ro.vendor.fingerprint.sensor_location=2680|800|100
+ro.vendor.fingerprint.request_touch_event=true
